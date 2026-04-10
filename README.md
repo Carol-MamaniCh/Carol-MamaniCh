@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hola, soy Carolina Mamani
 
-<!--
-**Carol-MamaniCh/Carol-MamaniCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Science Junior  
+📊 Ingeniería Civil Industrial  
 
-Here are some ideas to get you started:
+## 📫 Contacto
+- Email: carolina.mamanich@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/carolina-a-mamani-chura/
+- GitHub: https://github.com/Carol-MamaniCh
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos destacados
+- 📌 Segmentación de clientes (Clustering Jerárquico con PCA)
+- 📌 Predicción e-commerce (ML)
