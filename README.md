@@ -1,7 +1,7 @@
 # 👋 Hola, soy Carolina Mamani
 
+📊 Ingeniera Civil Industrial  
 🎯 Data Science Junior  
-📊 Ingeniería Civil Industrial  
 
 ## 📫 Contacto
 - Email: carolina.mamanich@gmail.com  
